@@ -1,5 +1,5 @@
 # SimpleStupidTodoList
-## how to user?
+## how to use?
 1. clone this project
 ```
 git clone https://github.com/kirahxr/SimpleStupidTodoList.git

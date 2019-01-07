@@ -1,0 +1,3 @@
+rootProject.name = 'SimpleStupidTodoList'
+
+include ':app'
